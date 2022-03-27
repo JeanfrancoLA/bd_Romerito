@@ -1,0 +1,58 @@
+[
+  {
+    "id": "Paquete #1",
+    "title": "Paquete #1",
+    "price": "235.00",
+    "img": "https://i.postimg.cc/BbPR3NdM/paquete1.jpg",
+    "products": {
+      "it1":"Torta de 10 porciones",
+      "it2":"+ 6 galletas",
+      "it3":"+ 6 cupcakes",
+      "it4":"+ 6 chocomanzanas",
+      "it5":"+ 6 oreopops",
+      "it6":"+ 4 portaretrato de chocolate"
+    }
+  },
+  {
+    "id": "Paquete #2",
+    "title": "Paquete #2",
+    "price": "285.00",
+    "img": "https://i.postimg.cc/52PcwHq5/paquete2.jpg",
+    "products": {
+      "it1":"Torta de 15 porciones",
+      "it2":"+ 6 galletas",
+      "it3":"+ 6 paletas de chocolate",
+      "it4":"+ 6 chocomanzanas",
+      "it5":"+ 6 copitas frosting con topper",
+      "it6":"+6 mashmallowspops"
+    }
+  },
+  {
+    "id": "Paquete #3",
+    "title": "Paquete #3",
+    "price": ".355.00",
+    "img": "https://i.postimg.cc/9f4kZLfV/paquete3.jpg",
+    "products": {
+      "it1":"Torta de 25 porciones",
+      "it2":"+ 6 cupcake",
+      "it3":"+ 6 galletas",
+      "it4":"+ 6 chocomanzanas",
+      "it5":"+ 6 paletas de chocolate",
+      "it6":"+ 6 oreopops"
+    }
+  },
+  {
+    "id": "Paquete #4",
+    "title": "Paquete #4.--",
+    "price": "285.00",
+    "img": "https://i.postimg.cc/0jNDKB80/paquete4.jpg",
+    "products": {
+      "it1":"Torta de 30 porciones",
+      "it2":"+ 6 cupcake",
+      "it3":"+ 6 galletas",
+      "it4":"+ 6 alfajores",
+      "it5":"+ 6 chocomanzanas",
+      "it6":"+ 6 brownies"
+    }
+  }
+]
